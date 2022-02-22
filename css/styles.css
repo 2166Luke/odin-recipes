@@ -1,3 +1,52 @@
-h1 {
-    color: rgb(56, 63, 160);
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(201, 201, 184);
+}
+
+.homepagehead {
+    color: white;
+    text-align: center;
+    background-color: darkslategrey;
+    height: 300px;
+    font-size: 120px;
+    padding-top: 120px;
+    border: 15px solid white;
+}
+
+.pagehead {
+    background-color: darkslategrey;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    border: 15px solid white;
+}
+
+.recipeimg{
+    width: 400px;
+    height: auto;
+    
+}
+
+li {
+    line-height: 200%;
+}
+
+ul li{
+    font-weight: bold;
+}
+
+div {
+    margin-bottom: 40px;
+}
+
+
+.homelink {
+    background-color: darkslategray;
+    color: white;
+    border: 5px solid white;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 15px;
+    margin-top: 700px;
+    padding: 20px 150px 22px 150px;
 }
